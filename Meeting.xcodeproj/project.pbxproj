@@ -15,6 +15,7 @@
 		69CA3EBC218A7A8900BDA84C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69CA3EBA218A7A8900BDA84C /* LaunchScreen.storyboard */; };
 		69CA3EC7218A7A8900BDA84C /* MeetingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CA3EC6218A7A8900BDA84C /* MeetingTests.swift */; };
 		69CA3ED2218A7A8900BDA84C /* MeetingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CA3ED1218A7A8900BDA84C /* MeetingUITests.swift */; };
+		69CA3EE0218A849300BDA84C /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 69CA3EDF218A849200BDA84C /* splash.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		69CA3ECD218A7A8900BDA84C /* MeetingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeetingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		69CA3ED1218A7A8900BDA84C /* MeetingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingUITests.swift; sourceTree = "<group>"; };
 		69CA3ED3218A7A8900BDA84C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69CA3EDF218A849200BDA84C /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				69CA3EB0218A7A8800BDA84C /* ViewController.swift */,
 				69CA3EB2218A7A8800BDA84C /* Main.storyboard */,
 				69CA3EB8218A7A8900BDA84C /* Assets.xcassets */,
+				69CA3EDF218A849200BDA84C /* splash.png */,
 				69CA3EBA218A7A8900BDA84C /* LaunchScreen.storyboard */,
 				69CA3EBD218A7A8900BDA84C /* Info.plist */,
 				69CA3EB5218A7A8800BDA84C /* Meeting.xcdatamodeld */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69CA3EE0218A849300BDA84C /* splash.png in Resources */,
 				69CA3EBC218A7A8900BDA84C /* LaunchScreen.storyboard in Resources */,
 				69CA3EB9218A7A8900BDA84C /* Assets.xcassets in Resources */,
 				69CA3EB4218A7A8800BDA84C /* Main.storyboard in Resources */,
